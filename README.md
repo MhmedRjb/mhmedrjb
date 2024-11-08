@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Develop erp for real estate
 - 🌱 I’m currently learning API,Vue Js,css
-- 👯 I’m looking to collaborate on Vue project
+- I’m looking to collaborate on point of sale project
 
 ### Languages & Tools
 <p>
